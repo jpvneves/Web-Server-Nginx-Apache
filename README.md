@@ -1,4 +1,4 @@
-# Web Server (Apache & Nginx)
+# Web Server
 
 ---
 
